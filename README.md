@@ -1,4 +1,4 @@
-### Live - https://dev-prakash-mahat.vercel.app/blog
+### Live - https://dev-prakash-mahat.vercel.app
 
 Blog - https://dev-prakash-mahat.vercel.app/blog
 
